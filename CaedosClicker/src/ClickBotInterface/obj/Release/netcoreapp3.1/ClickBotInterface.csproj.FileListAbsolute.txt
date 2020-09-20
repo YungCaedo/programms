@@ -1,0 +1,16 @@
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\obj\Release\netcoreapp3.1\ClickBotInterface.Form1.resources
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\obj\Release\netcoreapp3.1\ClickBotInterface.Properties.Resources.resources
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\obj\Release\netcoreapp3.1\ClickBotInterface.csproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\obj\Release\netcoreapp3.1\ClickBotInterface.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\obj\Release\netcoreapp3.1\ClickBotInterface.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\obj\Release\netcoreapp3.1\ClickBotInterface.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\obj\Release\netcoreapp3.1\ClickBotInterface.genruntimeconfig.cache
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\obj\Release\netcoreapp3.1\ClickBotInterface.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\bin\Release\netcoreapp3.1\CeadosClicker.exe
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\bin\Release\netcoreapp3.1\CeadosClicker.deps.json
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\bin\Release\netcoreapp3.1\CeadosClicker.runtimeconfig.json
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\bin\Release\netcoreapp3.1\CeadosClicker.runtimeconfig.dev.json
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\bin\Release\netcoreapp3.1\CeadosClicker.dll
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\bin\Release\netcoreapp3.1\CeadosClicker.pdb
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\obj\Release\netcoreapp3.1\CeadosClicker.dll
+C:\Users\Ricardo\source\repos\ClickBotInterface\ClickBotInterface\obj\Release\netcoreapp3.1\CeadosClicker.pdb
