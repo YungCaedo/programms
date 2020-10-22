@@ -42,7 +42,7 @@ namespace ClickBotInterface
             if(mode == "Halten")
             {
                 inputDelay.Enabled = false;
-                timer1.Interval = 1;
+                timer1.Interval = 1000;
             }
             else
             {
